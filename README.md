@@ -87,7 +87,7 @@ $hostEntries = @(
     @{ IP = "192.168.1.10"; Hostname = "internal.service.local" },
     @{ IP = "10.1.1.5";     Hostname = "api.corp.local" }
 )
+
 ```
 
-b profile.
-```
+
