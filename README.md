@@ -29,7 +29,7 @@ The script can be configured to add entries like:
 10.0.0.1        url.url.com
 10.0.0.2        url.url.com
 2.1.1.2         url.url.com
-
+```
 ---
 
 
