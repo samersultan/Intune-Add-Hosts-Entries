@@ -5,6 +5,8 @@
 
 $ErrorActionPreference = "Stop"
 
+# Add your host entires here
+
 try {
     $hostEntries = @(
         @{ IP = "10.0.0.0"; Hostname = "url.url.com" },
