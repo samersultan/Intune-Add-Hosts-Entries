@@ -4,9 +4,6 @@
 
 This PowerShell script updates the Windows `hosts` file by adding specified IP-to-hostname mappings. Designed for deployment via Microsoft Intune, the script ensures idempotency by checking for existing entries before appending, and includes built-in error handling and file backup mechanisms.
 
-### Author: Samer Sultan  
-### Version: 1.1  
-### Last Updated: 2025-05-19
 
 ---
 
